@@ -9,3 +9,7 @@ It's randomly select Snake(S), Water(W) or Gun(G) for computer and the player.
 Announce the winner of a game.
 It runs 10 times.
 At the end it shows the players score, how many times the match has tied and how many times the computer has won.
+
+
+//UI will be designed later!
+
